@@ -1,0 +1,4 @@
+april-json-util Copyright 2024 Framer Mo Bai
+
+This product includes other open source software developed on
+GitHub april-project (https://github.com/april-projects).
