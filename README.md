@@ -210,15 +210,15 @@ isJson(jsonString);
         <!-- 根据项目中使用的 json 工具引入依赖 -->
         <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
 <dependency>
-<groupId>com.google.code.gson</groupId>
-<artifactId>gson</artifactId>
-<version>${gson.version}</version>
+	<groupId>com.google.code.gson</groupId>
+	<artifactId>gson</artifactId>
+	<version>${gson.version}</version>
 </dependency>
         <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
 <dependency>
-<groupId>com.alibaba</groupId>
-<artifactId>fastjson</artifactId>
-<version>${fastjson.version}</version>
+	<groupId>com.alibaba</groupId>
+	<artifactId>fastjson</artifactId>
+	<version>${fastjson.version}</version>
 </dependency>
 ~~~
 
